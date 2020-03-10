@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+*smell my _shorts_*
 Use the left arrow to go back!
